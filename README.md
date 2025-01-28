@@ -3,6 +3,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
+<img align="right" alt="coding"width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/200.webp?cid=790b7611jwu5dk2lw1isx6ujafq8d2u66m030wpx9xburuto&ep=v1_gifs_search&rid=200.webp&ct=g"
 
 ###
 
