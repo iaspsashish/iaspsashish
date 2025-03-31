@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">I'm Ashish Kumar<br><br>- 🔭 I’m working as a Data Analyst<br>- 📚 I have done I.com, B.Com-CA, ITI - Electronics, MSC in Computer Science from Christ University, Bangalore<br>- ⚡ I love reading and exploring new books and places. In my free time, I delve into Occult Science and enjoy studying law books, including IPC, CrPC, and constitutional laws. I have both basic and advanced knowledge of these technical tools and technologies</p>
+<p align="center">I'm Ashish <br> 📚 I have done I.com, B.Com-CA, ITI - Electronics, MSC in Computer Science from Christ University, Bangalore<br>- ⚡ I love reading and exploring new books and places. In my free time, I delve into Occult Science and enjoy studying law books, including IPC, CrPC, and constitutional laws. I have both basic and advanced knowledge of these technical tools and technologies</p>
 
 ###
 
